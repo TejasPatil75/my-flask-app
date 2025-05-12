@@ -1,4 +1,4 @@
-from app import app
+from app import app as flask_app
 
 
 def test_home():
